@@ -4,6 +4,8 @@ JNIDemo实例
 # ANDROID中调用文件管理器并返回选中文件的路径
 [![Download](https://api.bintray.com/packages/vincentwoo/maven/MultiTypeFilePicker/images/download.svg) ](https://www.cnblogs.com/panhouye/p/6751710.html)
 
+   GitHub搜索FilePicker:[MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker)
+   
    实际项目中经常需要调用文件管理器，选择下载路径或者上传的本地文件路径。今天就给大家做个demo示范该功能的实现过程。
 
 ## 一、实现效果预览
