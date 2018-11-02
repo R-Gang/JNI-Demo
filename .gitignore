@@ -4,6 +4,7 @@
 gradle
 build
 *.iml
+.gitattributes
 gradlew
 gradlew.bat
 local.properties
